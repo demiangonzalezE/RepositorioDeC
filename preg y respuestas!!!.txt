@@ -1,0 +1,27 @@
+Aca estan las preguntas, con sus opciones y como ultimo numero, su opcion CORRECTA!!!
+
+---La repuesta de la pregunta matematica es 195312
+
+---Que numero llevo Lionel Messi en su debut con el Barcelona?;30;18;10;19;1
+
+---De estos jugadores, cual gano mas Champions?;Messi;Cristiano Ronaldo;Benzema;Seedorf;2
+
+---Cual es el jugador con mas faltas recibidas en la historia de los mundiales?;Maradona;Pele;Messi;Ronaldo Nazario;1
+
+---Que pais gano mas Copas del Mundo?;Alemania;Italia;Brasil;Uruguay;3
+
+---De que nacionalidad es Eden Hazard?;Aleman;Sueco;Espaniol;Belga;4
+
+---Cual es el maximo goleador del futbol argentino?;Palermo;Arsenio Erico;Labruna;Bianchi;2
+
+---Cuantas Intercontinentales tiene Boca Juniors?;3;4;2;1;1
+
+---En que anio gano Velez la Copa Libertadores?;1990;1993;1994;1997;3
+
+---Contra quien jugo River en la final de la Intercontinental 1986?;Steaua de Bucarest;Liverpool;Juventus;Real Madrid;1
+
+--En que anio gano Racing la Copa Libertadores?;1970;1967;1968;1965;2
+
+---Que dorsal usa Emiliano Martinez en la Seleccion Argentina?;23;1;13;31;1
+
+---Quien tiene mas titulos de Champions?;Liverpool;Real Madrid;Bayern Munich;AC Milan;2

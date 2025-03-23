@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1697156251 source:c:\users\demian\desktop\facufacufacufacufacu\prog viernes\tp final prog\intento 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697243871 source:c:\users\demian\desktop\facufacufacufacufacu\prog viernes\tp final prog\intento 2 funcionaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+
+1697767828 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"juego.h"
+	"jugadores.h"
+	"puntos.h"
+
+1697767782 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\estruct.h
+
+1697767834 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\juego.h
+
+1697767838 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"jugadores.h"
+
+1697767842 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\jugadores.h
+
+1697767828 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"juego.h"
+	"jugadores.h"
+	"puntos.h"
+
+1697767847 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"puntos.h"
+
+1697767850 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final (cambiar preg desempate)\puntos.h
+
+1697770637 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"juego.h"
+	"jugadores.h"
+	"puntos.h"
+
+1697770467 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\estruct.h
+
+1697770473 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\juego.h
+
+1697770484 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\jugadores.h
+
+1697767850 c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\puntos.h
+
+1697770479 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\jugadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"jugadores.h"
+
+1697773228 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"juego.h"
+	"jugadores.h"
+	"puntos.h"
+
+1697770453 source:c:\users\demian\desktop\prog c\prog viernes\tp final prog\tp final\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<float.h>
+	"estruct.h"
+	"puntos.h"
+
